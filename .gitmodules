@@ -1,3 +1,6 @@
 [submodule "foobar sdk"]
 	path = foobar sdk
 	url = https://github.com/chris-pie/foobar-sdk
+[submodule "restclient"]
+	path = restclient
+	url = https://github.com/chris-pie/restclient-cpp
